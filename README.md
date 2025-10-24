@@ -209,7 +209,10 @@ Modify these constants to change resolution, density, or performance.
 ## Validation
 
 The simulation validates the **Maxwell-Boltzmann hypothesis**:
-After thermalization, the velocity histogram converges to the theoretical Rayleigh distribution, and the mean kinetic energy matches ( \langle E \rangle = k_B T ).
+After thermalization, the velocity histogram converges to the theoretical Rayleigh distribution, and the mean kinetic energy matches $\langle E \rangle = k_B T$.
+
+<img width="1599" height="572" alt="image" src="https://github.com/user-attachments/assets/090cf0e1-cf41-4987-90c5-83529be9bc18" />
+
 
 ---
 
